@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'icy',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'zCfgyrFIIEhCjrDs58FPLqXbIWfnoPGztAik1cs5sq0swvjDdLVZfUQT',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-04-30',
+    'locale' => 'es-ES',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'imB8ChiohkbVyPKQKVppVsyrvMyKUc3WVgTcSJ1uznvzpFZxAgmShmxG',
+    'cookie_iv' => 'eaguNBht',
+    'new_cookie_key' => 'def00000e42650708ff313b0019efa0324af87de18b0a2c26d783c575bd3c5f02d41a37f08dae2959601c27b759f9c9304ef482af71a6dcccfa182dbd492c7d084f78cfc',
+  ),
+);
